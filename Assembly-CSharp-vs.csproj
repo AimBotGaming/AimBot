@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraTTPFollow.cs" />
-     <Compile Include="Assets\Strzal.cs" />
+     <Compile Include="Assets\bron.cs" />
      <Compile Include="Assets\kontrola_lotu.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
